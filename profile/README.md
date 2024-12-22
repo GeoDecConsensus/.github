@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are blockchain researchers with focus on consensus R&D (with geographical aspect)
+We are blockchain researchers with focus on consensus and distributed systems.
 
 <!--
 
